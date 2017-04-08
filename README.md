@@ -5,5 +5,5 @@
 目录
 
 * JavaScript
-    * [this关键字](https://github.com/ChaoYuLeo/leo-blog/issues/1)
+    * [this关键字](https://github.com/ChaoYuLeo/leo-blog/issues/1)
  
