@@ -9,3 +9,4 @@
 
 * Docker
     * [Docker 常用命令](https://github.com/ChaoYuLeo/leo-blog/issues/2)
+    * [使用docker-compose进行前端项目部署](https://github.com/ChaoYuLeo/leo-blog/issues/3)
